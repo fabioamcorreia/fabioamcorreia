@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Fábio Correia! 👋
 
-<!--
-**fabioamcorreia/fabioamcorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Consultant** with experience in **process automation**, **software development**, and **project management**. I'm proactive, with strong communication and teamwork skills, and I continuously strive to deliver effective and efficient solutions.
 
-Here are some ideas to get you started:
+Currently, I'm gaining experience in **Python**, **PHP**, and **Shell scripting**, and I'll be using this repository to store and showcase my projects as I expand my knowledge in these areas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+- Process automation
+- Software development
+- Project management
+
+## 💻 Technologies I'm Working With
+- **Python**
+- **PHP**
+- **Shell Scripting**
+
+## 📂 Projects
+This repository will serve as my portfolio, where I will store various projects in automation, web development, and other areas as I continue to build my expertise.
+
+## 📫 How to Reach Me
+- **Email**: fabioamcorreia@gmail.com
+- **LinkedIn**: [linkedin.com/in/fabioamcorreia](https://www.linkedin.com/in/fabioamcorreia/)
